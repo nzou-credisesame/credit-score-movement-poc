@@ -1,6 +1,8 @@
 POC of credit score movement project
 
-The goal of score movement project is to analyze and undertand the actions that users took in different profile segements. Based on the analysis results, Credit Sesame can suggest the most effective actions for them to follow and pitfalls/actions to avoid.
+The goal of score movement project is to analyze and undertand the actions that users took in different profile segements. 
+
+Based on the analysis results, Credit Sesame can suggest the most effective actions for them to follow and pitfalls/actions to avoid.
 
 
 Project 1: Medium Increase Group (30-50p) and High Increase Group (50-100p) Comparaison
