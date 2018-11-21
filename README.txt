@@ -1,4 +1,4 @@
-POC of credit score movement project
+*POC of credit score movement project*
 
 The goal of score movement project is to analyze and undertand the actions that users took in different profile segements. 
 
