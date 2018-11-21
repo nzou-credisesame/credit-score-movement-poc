@@ -12,13 +12,14 @@ Study the key difference between the two groups (in terms of their sign-up profi
 
 
 ### Data that sql.sql pulls:
-- Profile dimensions: 
+
+Profile dimensions: 
   - initial credit score
   - #of different types tradelines they have
   - # of negative marks
   - credit utilization
 
-- Actions: 
+Actions: 
   - Change of tradelines (open/close tradelines)?
   - Removed negative marks?
   - Credit utilization change
