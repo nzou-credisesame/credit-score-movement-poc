@@ -16,6 +16,6 @@ Based on the analysis results, Credit Sesame can suggest the most effective acti
 
 ### Code structure:
 - Util.py to connect Redshift and local machine
-- SQL to extract user profiles from redshift
-- Python to analyze statistically significant feature (feature selection) via Decision Tree, Random Forest
-- Python to visualize 'One Variable at a Time'
+- SQL to extract user profiles from redshift (0-x.sql)
+- Python to analyze statistically significant feature (feature selection) via Decision Tree, Random Forest (1-featureselection.py)
+- Python to visualize 'One Variable at a Time' (2-analytics.py)
