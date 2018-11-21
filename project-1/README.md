@@ -17,6 +17,7 @@ Study the key difference between the two groups (in terms of their sign-up profi
   - #of different types tradelines they have
   - # of negative marks
   - credit utilization
+
 - Actions: 
   - Change of tradelines (open/close tradelines)?
   - Removed negative marks?
