@@ -1,4 +1,4 @@
-# Credit score movement project
+# Credit score movement / Action Recommendation engine
 
 ### Motivation
 The goal of score movement project is to analyze and undertand the actions that users took in different profile segements. 
