@@ -3,9 +3,9 @@ about same amount users experience 30-50 (Medium increase group) v.s. 50-100 (Hi
 
 ### Two groups of users:
 
-**Medium increase group**: Users who experienced 30-50 credit score increase
+- Medium increase group: Users who experienced 30-50 credit score increase
 
-**High increase group**: Users who experienced 50-100 credit score increase
+- High increase group: Users who experienced 50-100 credit score increase
 
 
 ### Goal:
