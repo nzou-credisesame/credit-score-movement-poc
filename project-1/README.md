@@ -22,3 +22,9 @@ Actions:
   - Credit utilization change
   - Account mix grade changed?
   - Account age grade changed?
+  
+  ### Methodology
+  1. Feature Selection
+  with two groups labelled:
+  Meidum group: 0
+  High group: 1
