@@ -25,6 +25,10 @@ Actions:
   
   ### Methodology
   1. Feature Selection
-  with two groups labelled:
-  Meidum group: 0
-  High group: 1
+
+with two groups labelled: Meidum group (0) and High group (1)
+
+using Random Forest, Decision Tree to decide the importance of variables
+
+No Testing dataset since goal of analysis is merely using analytics to represent the data instead of prediction
+
