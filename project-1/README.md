@@ -34,8 +34,8 @@ No Testing dataset since goal of analysis is merely using analytics to represent
 
   2. Exploratory Visualization based on feature importance
   
-Group Bar Chart
+Group Bar Chart, Boxplot
 
 t-test, One variable at a Time (ignoring the effect of other dimensions) 
 
-descriptive statistics (interrange, median, quantiles)
+descriptive statistics (interrange, median, quantiles...)
