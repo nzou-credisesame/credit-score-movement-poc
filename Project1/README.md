@@ -1,6 +1,6 @@
 ### Background: 
 
-about same amount users experience 30-50 (Group 30-50) v.s. 50-100 (Group 50+) score increase
+about same amount users experience 30-50 (Medium increase group) v.s. 50-100 (High increase group) score increase
 
 ### Two groups of users:
 
