@@ -8,9 +8,6 @@ Study the key difference between the two groups (in terms of their sign-up profi
 
 - High increase group: Users who experienced 50-100 credit score increase
 
-### Methodology:
-
-
 ### Data that sql.sql pulls:
 
 Profile dimensions: 
