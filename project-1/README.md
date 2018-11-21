@@ -33,6 +33,9 @@ using Random Forest, Decision Tree to decide the importance of variables
 No Testing dataset since goal of analysis is merely using analytics to represent the data instead of prediction
 
   2. Exploratory Visualization based on feature importance
-- Group Bar Chart
-- t-test, One variable at a Time (ignoring the effect of other dimensions) 
-- descriptive statistics (interrange, median, quantiles)
+  
+Group Bar Chart
+
+t-test, One variable at a Time (ignoring the effect of other dimensions) 
+
+descriptive statistics (interrange, median, quantiles)
