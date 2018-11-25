@@ -19,3 +19,10 @@ Based on the analysis results, Credit Sesame can suggest the most effective acti
 - SQL to extract user profiles from redshift (0-x.sql)
 - Python to analyze statistically significant feature (feature selection) via Decision Tree, Random Forest (1-featureselection.py)
 - Python to visualize 'One Variable at a Time' (2-analytics.py)
+
+
+  
+### Results
+[Excel](https://docs.google.com/spreadsheets/d/1THX2HWMX-7I7LsGl6WRc7QVK6PUSTYxgmN4zmR8qbKg/edit#gid=0)
+
+[Slides](https://docs.google.com/presentation/d/1dmb6i4BL3jDMRQFUOcLBhSp67c8JgdMabdtWhPiZVQo/edit#slide=id.g47e7b63294_0_0)
