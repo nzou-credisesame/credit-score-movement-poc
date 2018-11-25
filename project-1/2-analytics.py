@@ -87,7 +87,7 @@ def cu_grade(x):
 # In[ ]:
 
 
-query = open('profile-data.sql','r') .read()
+query = open('0-profile-data.sql','r') .read()
 df = util.redshift_query_to_df(query)
 # raw data
 print 'raw data size: ' + str(df.shape)
