@@ -6,7 +6,7 @@ The goal of score movement project is to analyze and to understand the actions t
 
 Based on the analysis results, Credit Sesame can suggest the most effective actions for users to follow and pitfalls/actions to avoid, eventually bring more users to a quick credit improvement experience.
 
-### Project Status: POC
+### Project Status: poc
 
 ### Project
 >Project 1: Medium Increase Group (30-50p) and High Increase Group (50-100p) Comparison [ASANA ticket](https://app.asana.com/0/883289177114008/883289177114015)
