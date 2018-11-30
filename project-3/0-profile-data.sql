@@ -22,7 +22,7 @@ first_stats AS
     Join public."user" as b On a.usertoken=b.usertoken
     where rn=1
     and cast(b.acct_registration_complete_datetime as date) >='2017-01-01'
-    --and vantage3 between 575 and 625
+    and vantage3 between 550 and 650
 
   ),
 
